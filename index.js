@@ -24,8 +24,13 @@
 
 // console.log(drinkEnoughCoffee(2))
 
-// write a function to check how many words the sentence has
+// const calculateArea = (width, length) => {
+//     let area = width * length;
+//     return area;
+// }
+// console.log(calculateArea(10, 5))
 
-const wordCount = (sentence) => {
-    
-}
+
+const calculateThePowerOf = number => number**2;
+
+console.log(calculateThePowerOf(45))
